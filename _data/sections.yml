@@ -1,0 +1,152 @@
+- id: one
+  title: Bangkok
+  nav-title: Bangkok
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  link: "#section-link"
+  special-tip-title: "Food tour "
+  special-tip-content: "Wer nach kulinarischen Neuentdeckungen, aufstrebenden Künstlern und den Styles von morgen sucht, sollte Northwood Village nördlich von Downtown einen Besuch abstatten. Rund um die Northwood Road vermischt sich pittoreske Architektur mit historischem Flair, hipper Kaffeehauskultur und bunter Straßenkunst zu einem einzigartigen Lebens&shy;gefühl. Besonders zu empfehlen ist die Art Night Out am jeweils letzten Freitag des Monats, an dem Sie mit einem Wein in der Hand durch die Straßen schlendern&nbsp;können."
+
+  pois:
+    items:
+
+      - id: one-first-poi
+        title: Wat Arun & Wat Pho
+        description: "Thailand ist bekannt als “Land der Tausend Tempel”.  Zwei davon sind in Bangkok besonders attraktiv. Der Wat Pho, direkt neben dem Königspalast ist mit seinen Grünanlagen ein verblüffend ruhiger Ort inmitten des Goßstadttrubels. Hauptattraktion ist der mit Blattgold überzogene liegende Buddha – mit 46 m Länge der größte Thailands. Außerdem gilt der Tempel als Wiege der traditionellen Thai-Massage. Der Wat Arun ist ein beliebtes Postkartenmotiv und mit einem Mosaik aus ca. 1 Million Porzellanscherben, Muscheln und Glasstückchen dekoriert. Ein Paradox: Gerade in den Abendstunden erstrahlt der sogenannte Tempel der Morgenröte im Lichterglanz wie ein goldenes Palastwunder. Tipp: Am besten von der gegenüberliegenden Flussseite bewundern."
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: one-second-poi
+        title: Grand Palace & Wat Phra Kaeo
+        description: "Kein Besuch in Bangkok ist komplett ohne eine Besichtigung des Grand Palace. Dieser prachtvolle Palastkomplex aus dem Jahr 1783 war die offizielle Residenz der Könige von Thailand und liegt direkt am Chao Phraya Fluss. Auch wenn der Besucherandrang verständlicherweise beträchtlich ist, sollten Sie sich die mosaikverzierten Tempel, wunderschönen Wandmalereien auf keinen Fall entgehen lassen. Einer der vier Teilkomplexe des Königspalastes ist der Wat Phra Kaeo, hier befindet sich das Nationalheiligtum Thailands: der Smaragd-Buddha aus grünem Jade, um dessen Ursprung sich zahlreiche Legenden ranken. Je nach Saison in ein passendes Gewand gehüllt, thront er hoch oben im Tempel auf einem reichverzierten Schrein."
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: one-third-poi
+        title: "Schwimmender Markt: Khlong Lat Mayom Markt"
+        description: "Als die Kanäle noch den Kern der Infrastruktur Thailands darstellten, waren Floating Markets essentiell für die Lebensmittelversorgung. Auch heute noch sind Sie essentiell: als Foodie-Paradies, Fotomotive oder Ausflugsorte. Eine Tour zum ca. 15 km entfernten Khlong Lat Mayom Market ist da besonders empfehlenswert. Zwar liegen auf dem relativ engen Khlong bedeutend weniger Boote als auf den innerstädtischen Märkten, aber das hat besonderen Charme. Im Kern allerdings ist der Khlong Lat Mayom Floating Markt einer mit festem Boden. Sie sollten hier auf jeden Fall hungrig herkommen, denn in zwei großen Hallen am Ufer kann die gesamte Bandbreite der Thai-Küche verköstigt werden. Im Anschluss empfiehlt sich eine Bootstour durch die malerischen Khlongs."
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: one-fourth-poi
+        title: Sundowner hoch über der Stadt
+        description: "Was findet sich auf jeden Fall in Bangkok? Pulsierendes Nachtleben, angenehme Temperaturen nach Sonnenuntergang und eine einzigartige Skyline. Kein Wunder also, dass sich die “Stadt der Engel” zum Hotspot der Szene für Rooftop Bars entwickelt hat und ein abendlicher Drink hier am liebsten vor herrlicher Kulisse fern vom geschäftigen Treiben bei einer frischen Brise genossen wird. Auch als Filmkulisse wurden besonders elegante Skybars schon genutzt und sind entsprechend beliebt. In den den meisten Bars gilt Smart Casual Dresscode, Männer sollten auf ärmellose Hemden und offene Schuhe verzichten. Zwei Tipps, die nicht auf jeder Top-10-Liste stehen: Die Skybar Above Eleven in Sukhumvit auf dem Dach der Fraser Suites und die Zoom Bar im 40. Stock des Anantara Hotels in Sathorn mit spektakulärem Ausblick."
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: one-five-poi
+        title: Entspannung mit Tradition
+        description: "Als Wiege der Thai-Massage gilt der Tempel Wat Pho. Auf Steintafeln wurden hier zum ersten Mal die Regeln für diese Art von Massage festgehalten und in der Wat Pho-Massageschule weitergegeben. 1962 wurde dort die Schule für traditionelle Medizin und Massage eröffnet und weiter gelehrt. Auch Thailandbesucher können dort verschiedene Kurse absolvieren oder sich massieren lassen. Der Fokus bei der Thaimassage liegt auf der Integration von Körper, Geist und Seele. Sie orientiert sich weniger an der reinen Anatomie, als viel mehr an sogenannten Energielinien- und feldern. Für diese kraftvolle Ganzkörpermassage, die ohne Öl stattfindet, setzt der Therapeut Handballen, Daumen, Ellenbogen und Füße ein – und es kann dabei auch schon mal ordentlich wehtun."
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: one-six-poi
+        title: Chinatown, das frühere Herz der Stadt
+        description: "In Chinatown schlug einst das Herz Bangkoks. Den Pulsschlag spüren die Besucher durch die überbordende Betriebsamkeit in den engen Gassen und verborgenen Winkeln bis hinunter zum Fluß. Nach einer Tour durch Chinatown, heute eines der größten Auslandschinesen-Viertel, könnten Ihnen die restlichen Geschäftsviertel Bangkoks durchaus fast westlich vorkommen. Besuchen Sie die Yaowarat Road, mit Ihren beeindruckend vielen Reklametafeln, am besten abends, wenn auch die Garküchen öffnen und exotische Köstlichkeiten zum Probieren einladen (oder auch nicht). Auf der Sampeng Lang werden Shoppingfans glücklich und auch Street-Art-Liebhaber finden im Gassengewirr von Chinatown so manche Überraschung. Ebenso beeindruckend: chinesische Tempel, traditionelle Teakhäuser und alte, chinesische Adelshäuser."
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+
+
+################################################################################
+
+
+
+- id: two
+  title: Chang Mai & der Norden
+  nav-title: Chang Mai & der Norden
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  link: "#section-link"
+  special-tip-title: "Pai"
+  special-tip-content: "Wer nach kulinarischen Neuentdeckungen, aufstrebenden Künstlern und den Styles von morgen sucht, sollte Northwood Village nördlich von Downtown einen Besuch abstatten. Rund um die Northwood Road vermischt sich pittoreske Architektur mit historischem Flair, hipper Kaffeehauskultur und bunter Straßenkunst zu einem einzigartigen Lebens&shy;gefühl. Besonders zu empfehlen ist die Art Night Out am jeweils letzten Freitag des Monats, an dem Sie mit einem Wein in der Hand durch die Straßen schlendern&nbsp;können."
+
+  pois:
+    items:
+
+      - id: two-first-poi
+        title: Wat Doi Suthep & andere Tempel
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: two-second-poi
+        title: Huay Tung Tao See
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: two-third-poi
+        title: Samoeng Loop
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: two-fourth-poi
+        title: Doi Inthanon National Park
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: two-five-poi
+        title: Bergdörfer von Mae Taeng
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: two-six-poi
+        title: Kochkurs
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+
+
+################################################################################
+
+
+
+- id: three
+  title: Strände & Inseln
+  nav-title: Strände & Inseln
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  link: "#section-link"
+  special-tip-title: "Koh Kood"
+  special-tip-content: "Wer nach kulinarischen Neuentdeckungen, aufstrebenden Künstlern und den Styles von morgen sucht, sollte Northwood Village nördlich von Downtown einen Besuch abstatten. Rund um die Northwood Road vermischt sich pittoreske Architektur mit historischem Flair, hipper Kaffeehauskultur und bunter Straßenkunst zu einem einzigartigen Lebens&shy;gefühl. Besonders zu empfehlen ist die Art Night Out am jeweils letzten Freitag des Monats, an dem Sie mit einem Wein in der Hand durch die Straßen schlendern&nbsp;können."
+
+  pois:
+    items:
+
+      - id: three-first-poi
+        title: Phuket
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: three-second-poi
+        title: Khao Lak
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: three-third-poi
+        title: Koh Phi Phi
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: three-fourth-poi
+        title: Koh Samui
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: three-five-poi
+        title: Koh Lanta
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: three-six-poi
+        title: Krabi
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
